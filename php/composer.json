@@ -1,0 +1,19 @@
+{
+    "name": "ringcentral-demos-webhooks-php",
+    "type": "library",
+    "description": "RingCentral PHP Webhooks 2.0 demo",
+    "homepage": "http://developers.ringcentral.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anil Bisalehalli Prasannakumar",
+            "email": "anil.kumar@ringcentral.com"
+        }
+    ],
+    "require": {
+        "ringcentral/ringcentral-php": "2.0.0-rc1",
+        "vlucas/phpdotenv": "^2.2",
+        "slim/slim": "^3.0",
+        "slim/twig-view": "^2.2"
+    }
+}
